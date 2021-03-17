@@ -1,9 +1,11 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-![create a_repo](./images/003/create_a_repo.png?raw=true)
+<!-- ![create a_repo](./images/003/create_a_repo.png?raw=true) -->
 
-![switch branch](./images/003/switch_branch.png)
+<img src="./images/003/create_a_repo.png" width="800" />
+
+![switch branch](./images/003/switch_branch)
 
 ![go to_settings](./images/003/go_to_settings.png)
 
