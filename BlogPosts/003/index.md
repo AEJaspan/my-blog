@@ -1,25 +1,25 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-![create a_repo](/images/003/create_a_repo.png)
+![create a_repo](./images/003/create_a_repo.png)
 
-![switch branch](/images/003/switch_branch.png)
+![switch branch](./images/003/switch_branch.png)
 
-![go to_settings](/images/003/go_to_settings.png)
+![go to_settings](./images/003/go_to_settings.png)
 
-![create pages](/images/003/create_pages.png)
+![create pages](./images/003/create_pages.png)
 
-![choose a_theme](/images/003/choose_a_theme.png)
+![choose a_theme](./images/003/choose_a_theme.png)
 
-![commit pages](/images/003/commit_pages.png)
+![commit pages](./images/003/commit_pages.png)
 
-![setup pages](/images/003/setup_pages.png)
+![setup pages](./images/003/setup_pages.png)
 
-![hosted page](/images/003/hosted_page.png)
+![hosted page](./images/003/hosted_page.png)
 
 
 
-![clone_the_repo](/images/003/clone_the_repo.png)
+![clone_the_repo](./images/003/clone_the_repo.png)
 
 ```bash
 [12:13] Blog $  : git clone git@github.com:AEJaspan/make-a-blog.git
