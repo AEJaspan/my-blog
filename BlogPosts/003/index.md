@@ -1,6 +1,7 @@
 ---
 title: Creating your first blog
 layout: default
+<link rel="shortcut icon" href="favicon.ico">
 ---
 
 # Creating your first blog
@@ -111,7 +112,7 @@ You see that the ```gh-pages``` branch is on the remote. If you now check out th
 [12:13] make-a-blog $  : git checkout remotes/origin/gh-pages
 ```
 
-Once you've checked out this branch, you will be put into the ```'detached HEAD'``` state. This means that....
+Once you've checked out this branch, you will be put into the ```'detached HEAD'``` state. You can learn more about this in the [Git docs](https://git-scm.com/docs/git-checkout#_detached_head).
 
 ```text
 Note: switching to 'remotes/origin/gh-pages'.
