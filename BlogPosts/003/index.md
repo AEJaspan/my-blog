@@ -1,7 +1,7 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-![create a_repo](./images/003/create_a_repo.png)
+![create a_repo](./images/003/create_a_repo.png?raw=true)
 
 ![switch branch](./images/003/switch_branch.png)
 
