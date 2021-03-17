@@ -1,31 +1,25 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-<!-- ![create a_repo](./images/003/create_a_repo.png?raw=true) -->
+![create a_repo](../../images/003/create_a_repo)
 
-<img src="/images/003/create_a_repo.png" width="800" />
+![switch branch](../../images/003/switch_branch)
 
-![switch branch](./images/003/switch_branch)
+![go to_settings](../../images/003/go_to_settings)
 
-<img src="../../images/003/go_to_settings.png" width="800" />
+![create pages](../../images/003/create_pages)
 
-<!-- ![go to_settings](./images/003/go_to_settings.png) -->
-
-<img src="images/003/create_pages.png" width="800" />
-
-<!-- ![create pages](./images/003/create_pages.png) -->
-
-![choose a_theme](../../images/003/choose_a_theme.png)
+![choose a_theme](../../images/003/choose_a_theme)
 
 ![commit pages](../../images/003/commit_pages)
 
-![setup pages](./images/003/setup_pages.png)
+![setup pages](../../images/003/setup_pages)
 
-![hosted page](./images/003/hosted_page.png)
+![hosted page](../../images/003/hosted_page)
 
 
 
-![clone_the_repo](./images/003/clone_the_repo.png)
+![clone_the_repo](../../images/003/clone_the_repo)
 
 ```bash
 [12:13] Blog $  : git clone git@github.com:AEJaspan/make-a-blog.git
@@ -173,6 +167,6 @@ To github.com:AEJaspan/make-a-blog.git
    61a3cbe..9809b7d  gh-pages -> gh-pages
 ```
 
-![landing_page](/images/003/landing_page.png)
+![landing_page](../../images/003/landing_page)
 
-![first_post](/images/003/first_post.png)
+![first_post](../../images/003/first_post)
