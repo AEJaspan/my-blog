@@ -2,3 +2,4 @@ name: My Blog!
 description: A blog about Data Science
 favicon: favicon.ico
 theme: jekyll-theme-architect
+markdown: kramdown
