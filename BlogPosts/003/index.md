@@ -1,15 +1,15 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-![create a_repo](../../images/003/create_a_repo)
+![create a_repo](../../images/003/create_a_repo.png)
 
 ![switch branch](../../images/003/switch_branch)
 
-![go to_settings](../../images/003/go_to_settings)
+![go to settings](../../images/003/go_to_settings)
 
 ![create pages](../../images/003/create_pages)
 
-![choose a_theme](../../images/003/choose_a_theme)
+![choose a theme](../../images/003/choose_a_theme)
 
 ![commit pages](../../images/003/commit_pages)
 
@@ -19,7 +19,7 @@
 
 
 
-![clone_the_repo](../../images/003/clone_the_repo)
+![clone the repo](../../images/003/clone_the_repo)
 
 ```bash
 [12:13] Blog $  : git clone git@github.com:AEJaspan/make-a-blog.git
@@ -167,6 +167,6 @@ To github.com:AEJaspan/make-a-blog.git
    61a3cbe..9809b7d  gh-pages -> gh-pages
 ```
 
-![landing_page](../../images/003/landing_page)
+![landing page](../../images/003/landing_page)
 
-![first_post](../../images/003/first_post)
+![first post](../../images/003/first_post)
