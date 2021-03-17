@@ -3,3 +3,9 @@ description: A blog about Data Science
 favicon: favicon.ico
 theme: jekyll-theme-architect
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  extensions: fenced_code_blocks
