@@ -1,7 +1,7 @@
 [The GitHub pages documentation](https://pages.github.com/)
 
 
-![create a_repo](../../images/003/create_a_repo.png)
+<!-- ![create a_repo](../../images/003/create_a_repo.png)
 
 ![switch branch](../../images/003/switch_branch)
 
@@ -15,7 +15,24 @@
 
 ![setup pages](../../images/003/setup_pages)
 
-![hosted page](../../images/003/hosted_page)
+![hosted page](../../images/003/hosted_page) -->
+
+
+<img src="../../images/003/create_a_repo.png" width="800" />
+
+<img src="../../images/003/switch_branch.png" width="800" />
+
+<img src="../../images/003/go_to_settings.png" width="800" />
+
+<img src="../../images/003/create_pages.png" width="800" />
+
+<img src="../../images/003/choose_a_theme.png" width="800" />
+
+<img src="../../images/003/commit_pages.png" width="800" />
+
+<img src="../../images/003/setup_pages.png" width="800" />
+
+<img src="../../images/003/hosted_page.png" width="800" />
 
 
 
