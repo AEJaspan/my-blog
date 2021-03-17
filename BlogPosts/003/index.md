@@ -3,13 +3,17 @@
 
 <!-- ![create a_repo](./images/003/create_a_repo.png?raw=true) -->
 
-<img src="./images/003/create_a_repo.png" width="800" />
+<img src="/images/003/create_a_repo.png" width="800" />
 
 ![switch branch](./images/003/switch_branch)
 
-![go to_settings](./images/003/go_to_settings.png)
+<img src="../../images/003/go_to_settings.png" width="800" />
 
-![create pages](./images/003/create_pages.png)
+<!-- ![go to_settings](./images/003/go_to_settings.png) -->
+
+<img src="images/003/create_pages.png" width="800" />
+
+<!-- ![create pages](./images/003/create_pages.png) -->
 
 ![choose a_theme](./images/003/choose_a_theme.png)
 
