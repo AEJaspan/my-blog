@@ -1,9 +1,3 @@
-<head>
-  <title>{{ "My Blog" }}</title>
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-</head>
 # My Blog!
 
 
