@@ -15,9 +15,9 @@
 
 <!-- ![create pages](./images/003/create_pages.png) -->
 
-![choose a_theme](./images/003/choose_a_theme.png)
+![choose a_theme](../../images/003/choose_a_theme.png)
 
-![commit pages](./images/003/commit_pages.png)
+![commit pages](../../images/003/commit_pages)
 
 ![setup pages](./images/003/setup_pages.png)
 
