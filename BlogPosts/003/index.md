@@ -2,7 +2,7 @@
 title: Creating your first blog
 layout: default
 ---
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="{{ site.baseurl }}favicon.ico">
 
 # Creating your first blog
 
