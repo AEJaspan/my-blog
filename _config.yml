@@ -4,8 +4,8 @@ favicon: favicon.ico
 theme: jekyll-theme-architect
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-  extensions: fenced_code_blocks
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   syntax_highlighter: rouge
+#   extensions: fenced_code_blocks
