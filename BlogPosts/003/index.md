@@ -1,3 +1,8 @@
+---
+title: Creating your first blog
+layout: default
+---
+
 # Creating your first blog
 
 

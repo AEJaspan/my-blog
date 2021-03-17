@@ -1,3 +1,8 @@
+---
+title: My Blog!
+layout: default
+---
+
 # My Blog!
 
 
