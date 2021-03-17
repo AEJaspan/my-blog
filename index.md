@@ -1,8 +1,9 @@
 ---
 title: My Blog!
 layout: default
-<link rel="shortcut icon" href="favicon.ico">
 ---
+<link rel="shortcut icon" href="favicon.ico">
+
 
 # My Blog!
 
