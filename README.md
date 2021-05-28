@@ -5,4 +5,4 @@ Blog is found on `remotes/origin/gh-pages` branch.
 
 run
 
-```git checkout remotes/origin/gh-pages```
+```git checkout gh-pages```
